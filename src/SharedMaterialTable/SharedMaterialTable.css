@@ -1,0 +1,10 @@
+.MuiTableCell-root {
+    border-bottom: none;
+}
+.MuiTableRow-footer{
+    color: red;
+}
+
+.MuiTableRow-root{
+    border-bottom: none;
+}
